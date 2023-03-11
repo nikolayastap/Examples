@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\bin\Debug\net6.0\Example001_HelloConsoie.exe
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\bin\Debug\net6.0\Example001_HelloConsoie.deps.json
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\bin\Debug\net6.0\Example001_HelloConsoie.runtimeconfig.json
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\bin\Debug\net6.0\Example001_HelloConsoie.dll
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\bin\Debug\net6.0\Example001_HelloConsoie.pdb
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.dll
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\refint\Example001_HelloConsoie.dll
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.pdb
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\Example001_HelloConsoie.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Новая папка\Examples\Example001_HelloConsoie\obj\Debug\net6.0\ref\Example001_HelloConsoie.dll
